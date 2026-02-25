@@ -29,9 +29,7 @@
 
 ## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stalkeuar8&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stalkeuar8&layout=compact&theme=catppuccin_mocha&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=stalkeuar8&theme=catppuccin_mocha&hide_border=true)
 
 ## 👨‍💻 About Me
 
