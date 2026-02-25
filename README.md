@@ -39,6 +39,6 @@ I'm a student at Kyiv Polytechnic Institute (KPI), majoring in Automation, Compu
 
 ## 📫 Let's Connect
 
-- **Telegram:** [My TG](https://t.me/your_telegram_username)
-- **LinkedIn:** [My LinkedIn](https://linkedin.com/in/your_linkedin_url)
-- **Email:** [My Email](mailto:your_email@gmail.com)
+- **Telegram:** [My TG @stalkeuar](https://t.me/stalkeuar)
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/artem-marchenko-42b7ab27a/)
+- **Email:** [My Email sutalkuar808typ@gmail.com](mailto:sutalkuar808typ@gmail.com)
