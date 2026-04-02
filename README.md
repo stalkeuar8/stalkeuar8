@@ -3,7 +3,7 @@
 
 ## 🚀 Featured Projects
 
-### -- 🏨 [Booking Service](/projects_services/booking_service_backend)
+### -- 🏨 [Booking Service](https://github.com/stalkeuar8/projects_services/tree/main/booking_service_backend)
 *Booking service with asynchronous FastAPI backend, JWT auth, room availability logic, and Telegram bot integration, built for reliability under load.*
 
 ## 🛠️ Tech Stack
