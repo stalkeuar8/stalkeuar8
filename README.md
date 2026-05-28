@@ -6,9 +6,6 @@
 ### -- 🚗 [CarDian AI](https://cardianai.app)
 *AI service for predicting car prices in the European market (fully asynchronous).*
 
-### -- 🏨 [Booking Service](https://github.com/stalkeuar8/projects_services/tree/main/booking_service_backend)
-*Booking service with asynchronous FastAPI backend, JWT auth, room availability logic, and Telegram bot integration, built for reliability under load.*
-
 ## 🛠️ Tech Stack
 
 ### ⚙️ Backend & Databases
