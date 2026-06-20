@@ -3,7 +3,7 @@
 
 ## 🚀 Featured Projects
 
-### -- 🚗 [CarDian AI](https://cardianai.app)
+### -- 🚗 CarDian AI
 *AI service for predicting car prices in the European market (fully asynchronous).*
 
 ## 🛠️ Tech Stack
