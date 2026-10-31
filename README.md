@@ -1,10 +1,12 @@
 # Hi there, I'm Artem 👋
-### Python Backend Developer & ML Enthusiast
+### Python AI-Backend Developer 👨‍💻💲
 
 ## 🚀 Featured Projects
 
 ### -- 🚗 CarDian AI
-*AI service for predicting car prices in the European market (fully asynchronous).*
+*AI service for predicting car prices in the European market. Fully functional AI-based product featuring machine learning classification and regression models, built on real statistical and historical data, with integration of LLM providers. It includes efficient background processing of all CPU-bound or other time- or resource-intensive tasks. It features caching and an optimally designed database, as well as an asynchronous API, which together ensure fast application performance.*
+
+Translated with DeepL.com (free version) *
 
 ## 🛠️ Tech Stack
 
