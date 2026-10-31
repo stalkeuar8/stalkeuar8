@@ -44,10 +44,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a student at Kyiv Polytechnic Institute (KPI), majoring in Automation, Computer-Integrated Technologies, and Robotics. I am passionate about building robust backend architectures, exploring data and machine learning algorithms, and developing smart digital products.
+I'm a student at Taras Shevchenko National University of Kyiv, majoring in System Analysis. I am passionate about building robust backend architectures, exploring data and machine learning algorithms, and developing smart digital products.
 
 ## 📫 Let's Connect
 
 - **Telegram:** [My TG @stalkeuar](https://t.me/stalkeuar)
-- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/artem-marchenko-42b7ab27a/)
-- **Email:** [My Email sutalkuar808typ@gmail.com](mailto:sutalkuar808typ@gmail.com)
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/artem-marchenko-python/)
+- **Email:** [My Email a.marchenko0808@gmail.com](mailto:a.marchenko0808@gmail.com)
