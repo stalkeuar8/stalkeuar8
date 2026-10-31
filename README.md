@@ -50,4 +50,4 @@ I'm a student at Taras Shevchenko National University of Kyiv, majoring in Syste
 
 - **Telegram:** [My TG @stalkeuar](https://t.me/stalkeuar)
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/artem-marchenko-python/)
-- **Email:** [My Email a.marchenko0808@gmail.com](mailto:a.marchenko0808@gmail.com)
+- **Email:** [My Email sutalkuar808typ@gmail.com](mailto:sutalkuar808typ@gmail.com)
